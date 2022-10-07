@@ -1,9 +1,8 @@
 import Home from './components/Home';
 import './App.css';
-import React, { useEffect } from 'react';
+import React from 'react';
 import About from './components/Abouts';
 import Product from "./components/Products";
-//import Blogs from './components/Blogs';
 import Footer from './components/Footer';
 import Reviews from './components/Review';
 import Services from './components/Services';
