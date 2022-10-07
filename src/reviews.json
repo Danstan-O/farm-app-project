@@ -1,0 +1,29 @@
+[  
+    {
+"id ":1,
+"name":"ian kamau",
+"age":32,
+"comments":"this is one of the most promising agricultural start-up in the country. kudos guys for the great job you are doing",
+"images":"https://randomfox.ca/floof/"
+
+
+    },
+{
+    "id ":1,
+    "name":"anne wanyoike",
+    "age":32,
+    "comments":"i love your products guys. fresh and juicy.",
+    "images":"https://randomfox.ca/floof/"
+
+},
+{
+    "id ":1,
+    "name":"tifan aluoch",
+    "age":32,
+    "comments":"the green house installation that you did for me was a piece of art. my onions about to be ready in a few weeks.",
+    "images":"https://randomfox.ca/floof/"
+
+}
+
+
+ ]
