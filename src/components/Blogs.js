@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 
  
 function Blogs() {
- const [image, setImage] = useState(null)
+ const [image] = useState(null)
  const API_KEY="0e0ce7b67feb4e01bce947110f603b2a"
  
   useEffect(() => {
