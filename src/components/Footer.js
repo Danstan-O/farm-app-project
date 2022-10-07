@@ -16,11 +16,11 @@ function Footer() {
     <div class="links">
         <a href="#">home</a>
         <a href="#">about</a>
-        <a href="#">menu</a>
         <a href="#">products</a>
+        <a href="#">services</a>
         <a href="#">review</a>
         <a href="#">contact</a>
-        <a href="#">blogs</a>
+    
     </div>
 
     <div className="credit">created by <span>lord mwiko</span> | all rights reserved</div>

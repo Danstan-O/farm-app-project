@@ -26,7 +26,7 @@ function Services(){
                          <div className="content">
                             <h3 >{user.services}</h3>  
 
-                        <div className="price">Ksh. {user.servicePrice} <br></br><span>Ksh. {user.servicePrice2}</span></div>
+                        <div className="price">Ksh. {user.servicePrice} <br></br><span>Ksh.{user.servicePrice2}</span></div>
                             </div>
                           
                            

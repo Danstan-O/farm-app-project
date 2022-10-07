@@ -16,7 +16,6 @@ function Product(){
                             <img src={user.productImage} alt="" class="quote"></img>                 
                              <h3 >{user.product}</h3>
                            <div className="price">Ksh. {user.price}/Kg  <br></br><span>Ksh. {user.price2}/Kg</span></div>
-                           {/* <a href="#" class="btn">add to cart</a> */}
                            <div className="icons">
                                 <a href="#" className="fas fa-shopping-cart"></a>
                                 <a href="#" className="fas fa-heart"></a>
